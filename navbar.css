@@ -1,0 +1,8 @@
+@charset "utf-8";
+#navbar {
+    font-size: x-large;
+    text-indent: 32px;
+    width: 2in;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    border: thick solid #AB7E08;
+}
