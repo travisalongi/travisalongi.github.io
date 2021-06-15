@@ -87,7 +87,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -106,7 +106,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /_publications/
+  path: /categories/
 tag_archive:
   type: liquid
-  path: /_research/
+  path: /tags/
