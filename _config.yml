@@ -61,7 +61,8 @@ plugins:
 author:
   name   : "Travis Alongi"
   avatar : "/assets/images/me_larger_gitsite.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Seismology, Earthquakes, Faults
+PhD Candidate | UC Santa Cruz"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
