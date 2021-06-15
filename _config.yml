@@ -106,7 +106,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /_publications/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /_research/
