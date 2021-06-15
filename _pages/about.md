@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Bio"
 ---
 
 I am a Seismologist/Geophysist and a Ph.D. candidate in the Earth and Planetary Science department at the University of California, Santa Cruz. I am conducting research in the Seismology Lab with UCSC professors Emily Brodsky and Susan Schwartz, and I collaborate with USGS researchers Jared Kluesner and Danny Brothers
