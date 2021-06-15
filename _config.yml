@@ -78,29 +78,23 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: travis.alongi
+    url: https://twitter.com/AlongiTravis
     desc: Follow me on Twitter
     share: true
 
-  - name: Facebook
-    icon: facebook
-    username: thebencentra
-    url: ""
-    desc: Friend me on Facebook
-    share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: travisalongi
+    url: https://github.com/travisalongi
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Travis Alongi
+    url: https://www.linkedin.com/in/travis-alongi-609b7b15/
     desc: Connect with me on LinkedIn
     share: true
 
