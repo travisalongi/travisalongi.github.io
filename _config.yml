@@ -16,7 +16,6 @@
 title: Travis Alongi
 email: talongi@ucsc.edu
 description:   # this means to ignore newlines until "baseurl:"
-
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: travisalongi
 github_username: travisalongi
@@ -59,7 +58,7 @@ plugins:
 author:
   name   : "Travis Alongi"
   avatar : "/assets/images/me_larger_gitsite.png"
-  bio    : "1) Seismology, Earthquakes, Faults PhD Candidate | UC Santa Cruz"
+  bio    : "Seismology, Earthquakes, Faults, PhD Candidate, UC Santa Cruz"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -67,6 +66,9 @@ author:
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
       url: "/assets/Files/ta_curriculum_vitae_2021-04-16.pdf"
+    - label: "Google Scholar"
+      icon: "far fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=th56MtgAAAAJ&hl=en&oi=ao"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/https://twitter.com/AlongiTravis"
