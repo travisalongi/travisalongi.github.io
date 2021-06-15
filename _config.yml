@@ -69,9 +69,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/travisalongi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
     - label: "UC Seismology Lab"
       icon: "fas fa-fw fa-link"
       url: "https://https://www.pmc.ucsc.edu/~seisweb/"
@@ -80,13 +77,11 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/AlongiTravis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/travisalongi"
+
 
 defaults:
   # _posts
@@ -94,7 +89,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: archive
       author_profile: true
       read_time: true
       comments: true
@@ -103,7 +98,7 @@ defaults:
   # _pages
   - scope:
       path: "_pages"
-      type: pages
+      type: archieve
     values:
       layout: single
       author_profile: true
