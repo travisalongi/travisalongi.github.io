@@ -19,10 +19,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Seismologist
   PhD Candidate
   UC Santa Cruz	
+baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: travisalongi
 github_username: travisalongi
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -62,18 +63,18 @@ author:
   avatar : "/assets/images/me_larger_gitsite.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/https://twitter.com/AlongiTravis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/travisalongi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "UC Seismology Lab"
+      icon: "fas fa-fw fa-link"
+      url: "https://https://www.pmc.ucsc.edu/~seisweb/"
 
 footer:
   links:
