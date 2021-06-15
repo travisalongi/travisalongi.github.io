@@ -63,10 +63,10 @@ author:
   avatar : "/assets/images/me_larger_gitsite.png"
   bio    : "Seismology, Earthquakes, Faults PhD Candidate | UC Santa Cruz"
   links:
-	-label: "Email"
+	- label: "Email"
 	 icon: "fas fa-fw fa-envelope-square"
 	url: "mailto:talongi@ucsc.edu"
-	-label: "CV"
+	- label: "CV"
 	icon: "far fa-fw fa-file-pdf"
 	url: "/assets/Files/ta_curriculum_vitae_2021-04-16.pdf"
     - label: "Twitter"
