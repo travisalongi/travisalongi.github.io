@@ -24,5 +24,6 @@ Removing the source signiture and the noise helps for the identification of acti
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/processing.png){: .full}
 
 #### Coming Soon-- Palos Verdes (San Pedro Bay) high resolution Multi-Channel Seismic Lines 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/sproul_aquisition_me.png){: .full}
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/sproul_sunset.jpg){: .full}
 
