@@ -5,8 +5,8 @@ layout: tags
 author_profile: true
 ---
 ### Environmental Geology
- Teaching Assistant, UC Santa Cruz, Earth & Planetary Sciences, Spring 2020
- Instructor: Slawomir Tulacyzk
+Teaching Assistant, UC Santa Cruz, Earth & Planetary Sciences, Spring 2020
+Instructor: Slawomir Tulacyzk
 
 ### Geology of National Parks
 Teaching Assistant, UC Santa Cruz, Earth & Planetary Sciences, Spring 2019
