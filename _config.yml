@@ -78,7 +78,7 @@ author:
       url: "https://github.com/travisalongi"
     - label: "UCSC Seismo Lab"
       icon: "fas fa-fw fa-link"
-      url: "http://websites.pmc.ucsc.edu/~seisweb/"
+      url: "https://websites.pmc.ucsc.edu/~seisweb/"
     - label: "USGS - PCMSC"
       icon: "fas fa-fw fa-link"
       url: "https://www.usgs.gov/centers/pcmsc"
