@@ -79,6 +79,9 @@ author:
     - label: "UC Seismology Lab"
       icon: "fas fa-fw fa-link"
       url: "websites.pmc.ucsc.edu/~seisweb/"
+    - label: "Pacfic Coastal Marine Science Center"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.usgs.gov/centers/pcmsc"
 
 footer:
   links:
