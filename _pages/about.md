@@ -8,4 +8,4 @@ I am conducting research in the Seismology Lab with UCSC professors [Emily Brods
 
 I am interested in using seismic waves to understand faults in-situ within the earth. 
 
-I use both passive (earthquakes) and active (human created) source seismic methods.
+I use both passive (earthquakes) and active source (human created) seismic methods.

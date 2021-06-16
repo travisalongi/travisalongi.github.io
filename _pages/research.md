@@ -20,7 +20,7 @@ By doing a thorough seismic study of earthquakes near the plate interface using 
 #### Multi-Channel Seismic Processing
 Modern advanced seismic processing techniques provide a high resolution image of the subsurface. 
 I am working on developing workflows that provide crisp seismic images, this is done by reduce acquisition imposed artifacts, and the elimination of ghosts and multiples. 
-Removing the source signiture and the noise helps for the identification of active deformation and faulting.
+Removing the source signiture and the noise helps for the identification of active deformation and faulting.  
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/processing.png){: .full}
 
 #### Coming Soon-- Palos Verdes (San Pedro Bay) high resolution Multi-Channel Seismic Lines 
