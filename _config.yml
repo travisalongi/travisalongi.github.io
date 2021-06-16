@@ -19,7 +19,7 @@ description:   # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: travisalongi
 github_username: travisalongi
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: default
 search: false
 
 # Build settings
