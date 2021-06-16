@@ -58,7 +58,9 @@ plugins:
 author:
   name   : "Travis Alongi"
   avatar : "/assets/images/me_larger_gitsite.png"
-  bio    : "Seismology - Earthquakes -  Faults
+  bio    : "Seismology 
+  Earthquakes  
+  Faults
   PhD Candidate,  UC Santa Cruz"
   links:
     - label: "Email"
