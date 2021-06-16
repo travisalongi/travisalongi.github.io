@@ -8,4 +8,4 @@ author_profile: true
 *Manuscript in Preparation for Earth And Planetary Science Letters*
 
 ## Probing the Southern Cascadia Plate Interface with the Dense Ampibious Cascadia Initiative Seismic Array
-*Manuscript in review*
+*Manuscript in review at Journal of Geophysical Research: Solid Earth*
