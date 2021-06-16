@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-permalink: /posts/
-layout: posts
+permalink: /teaching/
+layout: tags
 author_profile: true
 ---
