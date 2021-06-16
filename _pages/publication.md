@@ -4,22 +4,8 @@ permalink: /publication/
 layout: tags
 author_profile: true
 ---
-## Environmental Geology
-**Teaching Assistant**  
-UC Santa Cruz, Earth & Planetary Sciences, Spring 2020  
-Instructor: Slawomir Tulacyzk
+## Using Active Source Seismology to Image Damage Zones and Characterize Spatial Patterns
+*Manuscript in Preparation for Earth And Planetary Science Letters*
 
-## Geology of National Parks
-**Teaching Assistant**  
-UC Santa Cruz, Earth & Planetary Sciences, Spring 2019  
-Instructor: Susan Y Schwartz
-
-## California Geology
-**Teaching Assistant**  
-Cabrillo College, Summer 2016  
-Instructor: David Schwartz
-
-### California Geology
-**Teaching Assistant**  
-Cabrillo College, Spring 2016  
-Instructor: David Schwartz
+## Probing the Southern Cascadia Plate Interface with the Dense Ampibious Cascadia Initiative Seismic Array
+*Manuscript in review*
