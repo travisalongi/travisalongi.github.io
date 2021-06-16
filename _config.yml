@@ -58,9 +58,7 @@ plugins:
 author:
   name   : "Travis Alongi"
   avatar : "/assets/images/me_larger_gitsite.png"
-  bio    : "Seismology 
-  Earthquakes  
-  Faults
+  bio    : "Seismology - Earthquakes -  Faults
   PhD Candidate,  UC Santa Cruz"
   links:
     - label: "Email"
@@ -78,7 +76,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/travisalongi"
-    - label: "UC Seismology Lab"
+    - label: "UCSC Seismo Lab"
       icon: "fas fa-fw fa-link"
       url: "websites.pmc.ucsc.edu/~seisweb/"
     - label: "USGS - PCMSC"
