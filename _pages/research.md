@@ -14,7 +14,7 @@ I am working on quantifying the spatial relationship of the algorithically ident
 #### Seismology: Earthquake Locations
 Aseismic slow slip events are ubiquitious at plate bounding faults. 
 There appears to be relationship between aseismic strain transients and microseismicity.
-By doing a thorough seismic study of earthquakes near the plate interface using an dense seismic array we find a cluster of earthquakes (yellow box) that appear to be sensitive to local long term strain-transients.
+By doing a thorough seismic study of earthquakes near the plate interface using an dense seismic array we find a cluster of earthquakes (yellow box) that appear to be sensitive to local long term strain-transients.  
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/Fig1_casc_map_r5_paper_rv1.jpg){: .full}
 
 #### Multi-Channel Seismic Processing
