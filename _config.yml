@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Travis Alongi"
-  avatar : "/assets/images/me_larger_gitsite.png"
+  avatar : "/assets/Images/me_larger_gitsite.png"
   bio    : "PhD Candidate,  UC Santa Cruz"
   links:
     - label: "Email"
