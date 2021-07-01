@@ -10,4 +10,4 @@ author_profile: true
 ## Probing the Southern Cascadia Plate Interface with the Dense Ampibious Cascadia Initiative Seismic Array
 *Alongi, T., Schwartz, S. Y., Shaddox, H. R., & Small, D. T. (2021). Probing the Southern Cascadia Plate Interface with the Dense Amphibious Cascadia Initiative Seismic Array. Journal of Geophysical Research: Solid Earth, 126, e2021JB022180. https://doi.org/10.1029/2021JB022180*  
 [LINK](https://doi.org/10.1029/2021JB022180)  
-[PDF]("/assets/Files/ Alongi_etal_2021JB022180_published.pdf")
+[PDF]("https://github.com/travisalongi/travisalongi.github.io/blob/main/assets/Files/Alongi_etal_2021JB022180_published.pdf")  
