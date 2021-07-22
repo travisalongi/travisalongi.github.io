@@ -15,3 +15,6 @@ $ git push #to send changes to cloud
 
 site wide changes are done in the _config.yml file
 updates as the come should be done to web page content should be done in the _pages/*.md
+
+#### website local file is now hosted in ~/Zephyrus_share/
+Revamping linux, with ArcoLinux and i3wm
