@@ -1,5 +1,5 @@
 ---
-title: "Publications:"
+title: "Publications"
 permalink: /publication/
 layout: tags
 author_profile: true
