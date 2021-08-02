@@ -4,11 +4,10 @@ permalink: /research/
 layout: tags
 author_profile: true
 ---
-## More Coming Soon!
 #### Active Source: 3D Fault Identification
 The 3D damage zone structure is poorly understood. 
 Using openly available legacy industry collected 3D marine seismic data I identify faults and fractures surfaces using a modern seismic attribute. 
-I am working on quantifying the spatial relationship of the algorithically identified fault and fractures network with major regional fault strands.   
+I am working on quantifying the spatial relationship of the algorithically identified fault and fractures network with major regional fault strands. I am looking for a lithology and or depth dependence on fault damage.   
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/Images/fault_id.png){: .full}
 
 #### Seismology: Earthquake Locations
