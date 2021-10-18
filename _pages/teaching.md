@@ -4,6 +4,11 @@ permalink: /teaching/
 layout: tags
 author_profile: true
 ---
+## Geophysical Data Science 
+Teaching Assistant, UC Santa Cruz, Earth & Planetary Sciences  
+Fall 2021  
+**Instructor:** Emily Brodksy
+
 ## Environmental Geology
 Teaching Assistant, UC Santa Cruz, Earth & Planetary Sciences  
 Spring 2020  
