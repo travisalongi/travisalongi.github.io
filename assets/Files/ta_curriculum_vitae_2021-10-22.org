@@ -1,4 +1,4 @@
-#+TITLE: Travis Alongi Curriculum Vitae <2021-08-25 Wed>
+#+TITLE: Travis Alongi Curriculum Vitae <2021-10-22 Fri>
 #+AUTHOR: Travis Alongi
 
 * Research Interests:
