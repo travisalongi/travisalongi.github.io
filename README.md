@@ -1,3 +1,14 @@
+---
+title: READ ME
+author: "Travis Alongi"
+numbersections: true
+geometry:
+- top=30mm
+- left=20mm
+- right=20mm
+- bottom=30mm
+---
+
 # June 2021
 Started this website  
 Initially began by hosting on people.ucsc.edu/~user  
