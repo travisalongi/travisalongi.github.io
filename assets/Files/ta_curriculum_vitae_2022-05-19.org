@@ -22,6 +22,10 @@ Offshore faults, fault damage zones, subduction zone seismology, seismic and ase
     - San Jose State University, CA [GPA 3.52] Dean’s Scholar
 
 * Publications
+*Alongi, T.*, Balster-Gee, A.F., Kluesner, J.W., Sliter, R.W., 2022, Reprocessed multichannel seismic-reflection data acquired offshore Southern California during USGS field activity O-1-99-SC: U.S. Geological Survey data release, https://doi.org/10.5066/P9GR0PWF
+
+*Alongi, T.*, Balster-Gee, A.F.,Kluesner, J.W., Sliter, R.W., 2022, Reprocessed multichannel seismic-reflection data collected offshore central and Southern California during USGS field activity L-4-90-SC: U.S. Geological Survey data release,https://doi.org/10.5066/P9FOES4K
+
 *Alongi, T.*, Schwartz, S. Y., Shaddox, H. R., & Small, D. T. (2021). Probing the Southern Cascadia Plate Interface with the Dense Amphibious Cascadia Initiative Seismic Array. Journal of Geophysical Research: Solid Earth, 126, e2021JB022180. https://doi.org/10.1029/2021JB022180
 
 * Research Position
