@@ -4,16 +4,16 @@ permalink: /research/
 layout: tags
 author_profile: true
 ---
-#### Active Source: 3D Fault Identification
-The 3D fault networks and damage zone structure is poorly understood. 
-Using openly available 3D marine reflection seismic data I identify faults and fractures surfaces using modern seismic attribute methods. 
+#### Reflection Seismology: 3D Fault Identification & Damage Zones
+Three-dimensional fault networks and damage zone structure is poorly understood.
+Using openly available 3D marine reflection seismic data I automate fault identification using modern seismic attribute methods. 
 I am working on quantifying the spatial relationship of the algorithmically identified fault and fractures network with mapped fault strands. I am exploring a lithological and/or depth dependence on fault damage.   
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/Images/fault_id.png){: .full}
 
-#### Seismology: Microseismicity and Slow Slip
+#### Earthquake Seismology: Microseismicity & Slow Slip
 Aseismic slow slip events are ubiquitious at plate bounding faults. 
-There appears to be relationship between aseismic strain transients and microseismicity.
-A thorough seismic study of earthquakes near the plate interface using an dense seismic array reveals a cluster of earthquakes (yellow box) that appear to be sensitive to local long term strain-transients.  
+There is apparent correlations between aseismic strain transients (slow slip events) and microseismicity.
+A detailed seismic study of earthquakes near the plate interface using an dense seismic array reveals a cluster of earthquakes (yellow box) that appear to be sensitive to nearby long term strain-transients.  
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/Images/Fig1_casc_map_r5_paper_rv1.jpg){: .full}
 
 #### Multi-Channel Seismic Processing
