@@ -6,7 +6,7 @@ author_profile: true
 ---
 #### Active Source: 3D Fault Identification
 The 3D fault networks and damage zone structure is poorly understood. 
-Using openly available 3D marine reflection seismic data I identify faults and fractures surfaces using a modern seismic attribute algorithm. 
+Using openly available 3D marine reflection seismic data I identify faults and fractures surfaces using modern seismic attribute methods. 
 I am working on quantifying the spatial relationship of the algorithmically identified fault and fractures network with mapped fault strands. I am exploring a lithological and/or depth dependence on fault damage.   
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/Images/fault_id.png){: .full}
 
