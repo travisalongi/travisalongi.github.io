@@ -5,7 +5,8 @@ layout: tags
 author_profile: true
 ---
 ### Using Active Source Seismology to Image the Palos Verdes Damage Zone as a Function of Distance, Depth, and Geology  
-*Manuscript in review Earth And Planetary Science Letters, August 2022*  
+*Alongi, T., Brodsky, E.E., Kluesner, J. and Brothers, D., (2022). Using active source seismology to image the Palos Verdes Fault damage zone as a function of distance, depth, and geology. Earth and Planetary Science Letters, 600, p.117871.*
+[PDF](../../../assets/Files/Alongi_etal_2022_EPSL.pdf)
 
 ### Reprocessed multichannel seismic-reflection data acquired offshore Southern California during USGS field activity O-1-99-SC  
 *Alongi, T., Balster-Gee, A.F., Kluesner, J.W., Sliter, R.W., 2022, Reprocessed multichannel seismic-reflection data acquired offshore Southern California during USGS field activity O-1-99-SC: U.S. Geological Survey data release, https://doi.org/10.5066/P9GR0PWF*  
