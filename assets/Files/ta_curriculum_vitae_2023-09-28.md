@@ -3,7 +3,8 @@ author: Travis Alongi
 title: Curriculum Vitae
 ---
 
-Travis Alongi UC Santa Cruz Seismological Laboratory 1156 High st.,
+Travis Alongi 
+UC Santa Cruz Seismological Laboratory 1156 High st.,
 Earth & Marine Sciences, Santa Cruz CA 95064
 
 # Research Interests
@@ -13,7 +14,7 @@ and aseismic slip.
 
 # Education
 
--   PhD, Earth and Planetary Science (Expected graduation summer 2023)
+-   PhD, Earth and Planetary Science (Expected graduation fall 2023)
     -   University of California, Santa Cruz
 -   UC Extension program - Earth Science Coursework
     -   University of California, Santa Cruz \[GPA 4.0\]
