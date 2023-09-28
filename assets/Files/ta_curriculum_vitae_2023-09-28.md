@@ -3,8 +3,7 @@ author: Travis Alongi
 title: Curriculum Vitae
 ---
 
-Travis Alongi 
-UC Santa Cruz Seismological Laboratory 1156 High st.,
+UC Santa Cruz Seismological Laboratory 1156 High st.,  
 Earth & Marine Sciences, Santa Cruz CA 95064
 
 # Research Interests
