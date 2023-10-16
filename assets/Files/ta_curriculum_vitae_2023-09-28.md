@@ -8,12 +8,12 @@ Earth & Marine Sciences, Santa Cruz CA 95064
 
 # Research Interests
 
-Offshore faults, fault damage zones, subduction zone seismology, seismic
+Offshore faults, fault structure, fault damage zones, subduction zone seismology, seismic
 and aseismic slip.
 
 # Education
 
--   PhD, Earth and Planetary Science (Expected graduation fall 2023)
+-   PhD, Earth and Planetary Science (Dec. 2023)
     -   University of California, Santa Cruz
 -   UC Extension program - Earth Science Coursework
     -   University of California, Santa Cruz \[GPA 4.0\]
@@ -126,6 +126,8 @@ Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
 
 # Conference convenership
 
+-   2023 Seismological Society of America Meeting, Convener *Above
+    the Seismogenic Zone: Fault Damage and Healing the Shallow Crust*
 -   2022 Seismological Society of America Meeting, Convener *Fault
     Damage Zones: What We Know and Do Not (1 & 2)*
 
