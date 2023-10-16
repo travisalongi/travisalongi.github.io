@@ -1,7 +1,7 @@
 ---
 layout: "posts"
 title:  "PhD Defense Success"
-date:   2023-09-28 4:20:00 -0700
+date:   2023-10-16 4:20:00 -0700
 categories: update
 ---
 ## Wrapping up
