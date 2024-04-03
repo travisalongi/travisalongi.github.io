@@ -3,15 +3,18 @@ author: Travis Alongi
 title: Curriculum Vitae
 ---
 
-UC Santa Cruz Seismological Laboratory 1156 High st.,  
-Earth & Marine Sciences, Santa Cruz CA 95064
+# Travis Alongi
 
-# Research Interests
+US Geological Survey 
+350 N. Akron Rd.
+Moffett Field, CA 94035
+
+## Research Interests
 
 Offshore faults, fault structure, fault damage zones, subduction zone seismology, seismic
 and aseismic slip.
 
-# Education
+## Education
 
 -   PhD, Earth and Planetary Science (Dec. 2023)
     -   University of California, Santa Cruz
@@ -22,7 +25,7 @@ and aseismic slip.
 -   Bachelor of Science, Business (Dec. 2007)
     -   San Jose State University, CA \[GPA 3.52\] Dean's Scholar
 
-# Publications
+## Publications
 
 **Alongi, T.**, Balster-Gee, A.F. Kluesner, J.W., Snyder, G.R., Brothers, D.S., Conrad, J.E., Marcuson, R.K., 2024, Multichannel minisparker and chirp seismic reflection data collected during USGS field activity 2021-614-FA along the Palos Verdes Fault Zone: U.S. Geological Survey data release, https://doi.org/10.5066/P9HCOSDF
 
@@ -46,7 +49,7 @@ Probing the Southern Cascadia Plate Interface with the Dense Amphibious
 Cascadia Initiative Seismic Array. Journal of Geophysical Research:
 Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
 
-# Research Position
+## Research Position
 
 -   Developing a 3D fault model from seismicity at the San Andreas / Calaveras Fault junction
     -   Mendenhall Postdoctoral Scholar
@@ -63,7 +66,7 @@ Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
     Zone
     -   Scripps Institute of Oceanography, La Jolla, CA (7/2017-10/2017)
 
-# Presentations
+## Presentations
 
 -   Offshore Fault Damage and Slip Behavior: Insights from Microseismicity and Seismic Imaging
     -   US Geologic Survey, Earthquake Science Seminar (invited talk)
@@ -131,19 +134,19 @@ Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
     -   American Geophysical Union Conference (poster)
     -   12/2017 New Orleans, LA
 
-# Honors and Awards
+## Honors and Awards
 -   2021 Zhen and Ren Wu Memorial Fund
 -   2020 Eli Silver EPS Opportunities Fund
 -   2017 IRIS Summer Internship
 -   2016 Henry A Martin Scholarship
 
-# Conference convenership
+## Conference convenership
 -   2023 Seismological Society of America Meeting, Convener *Above
     the Seismogenic Zone: Fault Damage and Healing the Shallow Crust*
 -   2022 Seismological Society of America Meeting, Convener *Fault
     Damage Zones: What We Know and Do Not (1 & 2)*
 
-# Field Experience
+## Field Experience
 -   2024 Mee Ranch and Mustang Ranch
     -   Data collected: Alignment array measurements
     -   Location: Creeping section of the San Andreas Fault
@@ -164,7 +167,7 @@ Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
     -   Data collected: passive seismometer installation
     -   Location: Socorro, NM
 
-# Teaching Experience
+## Teaching Experience
 -   Teaching Assistant, Geophysical Data Science (9/2021 - 12/2021)
     -   University of California, Santa Cruz, CA
 -   Teaching Assistant, Environmental Geology (3/2020 - 7/2020)
@@ -176,7 +179,7 @@ Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
 -   Student assistant, California Historical Geology (1/2016 -- 7/2016)
     -   Cabrillo College, Aptos, CA
 
-# Relevant Coursework
+## Relevant Coursework
 Earthquake Physics, Crustal Deformation, Order of Magnitude Estimation,
 The Dynamic Earth, Practical Geophysics, Seismotectonics, Machine
 Learning for Geophysicists, Topics in Geophysics, Scientific Computing,
