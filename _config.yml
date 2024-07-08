@@ -1,5 +1,5 @@
 # Basic Information 
-title: Travis Alongi
+title: TRAVIS ALONGI
 position: Mendenhall Geophysicist
 affiliation: US Geological Survey
 email: talongi@usgs.gov
@@ -13,14 +13,14 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=th56MtgAAAAJ&hl=en&oi=ao
-cv_link: assets/files/curriculum_vitae.pdf
+cv_link: ./assets/files/ta_cv.html
 github_link: https://github.com/travisalongi
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/profile_pic.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon-32x32.png
+favicon_dark: ./assets/img/favicon-32x32_dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

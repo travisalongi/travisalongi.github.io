@@ -1,7 +1,37 @@
+@font-face {
+  font-family: 'NerdFont';
+  src: url('/assets/fonts/FiraCodeNerdFont-Retina.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NerdFont-Italic';
+  src: url('/assets/fonts/VictorMonoNerdFont-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+
 body {
-    background-color: #fff;
+    background-color: #e0e0e0;
     padding:50px;
-    font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    color:#595959;
-    font-weight:400;
+    font: 16px/1.5  Roboto, "NerdFont",Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color:#3f3f3f;
+    font-weight:450;
   }
+
+em, i {
+    font-family: Roboto,"NerdFont-Italic";
+    font-style: italic;
+    font-weight:300
+}
+
+b, strong {
+    font: 16.5px/1.5 Roboto;
+    font-weight:900;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font: Roboto
+}
