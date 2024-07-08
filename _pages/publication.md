@@ -4,7 +4,7 @@ permalink: /publication/
 layout: tags
 author_profile: true
 ---
-### Multichannel minisparker and chirp seismic reflection data collected during USGS field activity 2021-614-FA along the Palos Verdes Fault Zone 
+### Characteristics of the Fault Damage Zone From High‐ Resolution Seismic Imaging Along the Palos Verdes Fault, California  
 *Alongi, T., Brodsky, E. E., Kluesner, J., & Brothers, D. (2024). Characteristics of the fault damage zone from high‐resolution seismic imaging along the Palos Verdes Fault, California. AGU Advances, 5(4), e2023AV001155.*  
 [LINK](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023AV001155)  
 [PDF](../../../assets/Files/Alongi_etal_2024_shallow_damage_agu_adv.pdf)  

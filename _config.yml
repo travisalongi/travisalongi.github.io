@@ -14,10 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Travis Alongi
-email: talongi@ucsc.edu
+email: talongi@usgs.gov
 description:   # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: travisalongi
 github_username: travisalongi
 minimal_mistakes_skin: default
 search: false
@@ -59,11 +58,11 @@ plugins:
 author:
   name   : "Travis Alongi"
   avatar : "/assets/Images/me_larger_gitsite.png"
-  bio    : "PhD Candidate,  UC Santa Cruz"
+  bio    : "Mendenhall Research Geophysicists,  US Geological Survey"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:talongi@ucsc.edu"
+      url: "mailto:talongi@usgs.gov"
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
       url: "/assets/Files/ta_curriculum_vitae_2024-04-03.html"
@@ -76,12 +75,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/travisalongi"
-    - label: "UCSC Seismo Lab"
+    - label: "USGS - ESC"
       icon: "fas fa-fw fa-link"
-      url: "https://websites.pmc.ucsc.edu/~seisweb/"
-    - label: "USGS - PCMSC"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.usgs.gov/centers/pcmsc"
+      url: "https://www.usgs.gov/centers/earthquake-science-center"
 
 footer:
   links:
