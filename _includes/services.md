@@ -1,6 +1,4 @@
-## Services
-
-#### Selected Presentations
+### Selected Presentations
 - **June 2024** Offshore Faults and Earthquakes in California (invited)  *Santa Clara University*
 - **May  2024** Constraining 3D fault geometry with a data-driven approach at the San Andreas - Calaveras Fault Junction *SSA - Anchorage, AK*
 - **Apr. 2024** Offshore Fault Damage and Slip Behavior: Insights from Microseismicity and Seismic Imaging (invited) *USGS ESC Seminar**
@@ -8,7 +6,7 @@
 - **Oct. 2023** Understanding Fault Damage and Slip with Marine Seismic Methods *PhD Dissertation Defense*
 
 
-#### Conference Convernership
+### Conference Convernership
 - 2024 American Geophysical Union Fall Meeting   *Characteristics of faults and fault zones and their influence on earthquake physics: observations, models, and experiments*
 - 2023 Seismological Society of America Meeting  *Above the Seis- mogenic Zone: Fault Damage and Healing the Shallow Crust*
 - 2022 Seismological Society of America Meeting  *Fault Damage Zones: What We Know and Do Not (1 & 2)*
