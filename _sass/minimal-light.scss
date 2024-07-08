@@ -228,7 +228,7 @@ papertitle {
       width: 8.00em;
     }
 
-h3, h4, h5, h6 {
+h4, h5, h6 {
   font-weight: 600;
   color:#282828;
   margin:0 0 20px;
@@ -238,6 +238,7 @@ h1 {
   font-weight: 500;
   color:#282828;
   margin:0 0 20px;
+	font-size: 120%
 }
 
 h2 {
@@ -245,6 +246,13 @@ h2 {
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
+}
+
+h3 {
+  color:#282828;
+  font-weight: 500;
+  margin:2px 0px 15px;
+  font-size: 127%;
 }
 
 @media (prefers-color-scheme: dark) {
