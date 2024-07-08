@@ -23,7 +23,8 @@ search: false
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
+theme: academic-jekyll-theme
 # Outputting
 permalink: /:categories/:title/
 paginate: 6 # amount of posts to show
