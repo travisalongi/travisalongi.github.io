@@ -1,16 +1,14 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+#### Selected Presentations
+- **[June 2024]** Offshore Faults and Earthquakes in California (invited talk)  *Santa Clara University*
+- **[May 2024]** Constraining 3D fault geometry with a data-driven approach at the San Andreas - Calaveras Fault Junction *SSA Anchorage, AK*
+- **[Apr. 2024]** Offshore Fault Damage and Slip Behavior: Insights from Microseismicity and Seismic Imaging (invited talk) *USGS ESC Seminar**
+- **[Dec. 2023]** Fault Damage Zone Insights from High-Resolution Seismic Imaging and the Relationship with Fluid Seeps Along the Palos verdes Fault *AGU*
+- **[Oct. 2023]** Understanding Fault Damage and Slip with Marine Seismic Methods *PhD Dissertation Defense*
 
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul>
+#### Conference Convernership
+- 2024 American Geophysical Union Fall Meeting, Convener  *Characteristics of faults and fault zones and their influence on earthquake physics: observations, models, and experiments*
+- 2023 Seismological Society of America Meeting, Convener *Above the Seis- mogenic Zone: Fault Damage and Healing the Shallow Crust*
+- 2022 Seismological Society of America Meeting, Convener *Fault Damage Zones: What We Know and Do Not (1 & 2)*

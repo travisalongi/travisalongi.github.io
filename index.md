@@ -4,20 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a postdoc at the earthquake science center...
+I am a postdoc at the Earthquake Science Center in Moffett Field, California  
+I recently earned my PhD from UC Santa Cruz
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Observational Seismology** seismic imaging, microseismicity, focal mechanisms
+- **Fault Physics** understanding how fault architecture impacts earthquake physics 
+- **Machine Learning:** simple geologic applications of established machine learning tools
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July. 2024]** New paper published in AGU advances
+- **[Oct. 2023]** PhD dissertation defended and degree received
 
 {% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
