@@ -21,3 +21,4 @@ During my PhD I developed methods for analyzing the spatial patterns of fault da
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
+{% include_relative _includes/links.md %}
