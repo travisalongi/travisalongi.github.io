@@ -4,9 +4,9 @@ layout: homepage
 
 ## About
 
-I am a postdoc at the Earthquake Science Center in Moffett Field, California. I am currently working on a project / algorithm to generate three-dimensional fault geometires from the spatial patterns of seismicity combined with focal mechanisms. The initial testing phases of this work are being applied to the San Juan Bautista region of California which is the confluence of two major faults as well as transition in coupling along both faults.    
+I am a postdoctoral researcher at the Earthquake Science Center in Moffett Field, California. My current project focuses on developing an innovating algorithm to generate three-dimensional fault geometries by analyzing the spatial patterns of seismicity combined with focal mechanisms. This advancement in the field is initially being tested in the San Juan Bautista region of California, a critical area where two major faults intersect and coupling transitions occur.    
 
-During my PhD I developed methods for analyzing the spatial patterns of fault damage zones along the Palos Verdes Fault in California, with multi-resolution seismic reflection data. I also created a high quality microseismicity catalog for the Mendocino Triple Junction region of Northern California / Southern Cascadia to help understand the state of coupling along the megathrust.
+During my PhD I specialized in analyzing the spatial patterns of fault damage zones along the Palos Verdes Fault in California using multi-resolution marine seismic reflection datasets. This gave me the opportunity to use existing datasets as well as collect new high-resolution data and develop seismic processing skills. Additionally, I created a high=quality microseismicity catalog for the Mendocino Triple Junction region of Northern California/Southern Cascadia, providing valuable insight into the state of coupling along the megathrust.
 
 ## Research
 
