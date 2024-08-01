@@ -23,19 +23,16 @@ and aseismic slip.
 
 ## Publications
 
-**Alongi, T.**, Balster-Gee, A.F. Kluesner, J.W., Snyder, G.R., Brothers, D.S., Conrad, J.E., Marcuson, R.K., 2024, Multichannel minisparker and chirp seismic reflection data collected during USGS field activity 2021-614-FA along the Palos Verdes Fault Zone: U.S. Geological Survey data release, https://doi.org/10.5066/P9HCOSDF
+**Alongi, T.**, Brodsky, E. E., Kluesner, J., & Brothers, D. (2024). Characteristics of the fault damage zone from high‐resolution seismic imaging along the Palos Verdes Fault, California. AGU Advances, 5(4), e2023AV001155.    
 
-**Alongi, T.**, Brodsky, E.E., Kluesner, J.W., Brothers, D.S., 2022,
+**Alongi, T.**, Balster-Gee, A.F. Kluesner, J.W., Snyder, G.R., Brothers, D.S., Conrad, J.E., Marcuson, R.K., (2024), Multichannel minisparker and chirp seismic reflection data collected during USGS field activity 2021-614-FA along the Palos Verdes Fault Zone: U.S. Geological Survey data release, https://doi.org/10.5066/P9HCOSDF
+
+**Alongi, T.**, Brodsky, E.E., Kluesner, J.W., Brothers, D.S., (2022),
 Using Active Source Seismology to Image the Palos Verdes Fault Damage
 Zone as a Function of Distance, Depth, and Geology, Earth and Planetary
 Science Letters <https://doi.org/10.1016/j.epsl.2022.117871>
 
-**Alongi, T.**, Balster-Gee, A.F., Kluesner, J.W., Sliter, R.W., 2022,
-Reprocessed multichannel seismic-reflection data acquired offshore
-Southern California during USGS field activity O-1-99-SC: U.S.
-Geological Survey data release, <https://doi.org/10.5066/P9GR0PWF>
-
-**Alongi, T.**, Balster-Gee, A.F.,Kluesner, J.W., Sliter, R.W., 2022,
+**Alongi, T.**, Balster-Gee, A.F.,Kluesner, J.W., Sliter, R.W., (2022),
 Reprocessed multichannel seismic-reflection data collected offshore
 central and Southern California during USGS field activity L-4-90-SC:
 U.S. Geological Survey data release,<https://doi.org/10.5066/P9FOES4K>
