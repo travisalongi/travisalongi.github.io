@@ -7,7 +7,7 @@ Moffett Field, CA 94035
 
 ## Research Interests
 
-Offshore faults, fault structure, fault damage zones, subduction zone seismology, seismic
+Faults (on and offshore), fault structure, fault damage zones, subduction zone seismology, seismic
 and aseismic slip.
 
 ## Education
@@ -42,7 +42,7 @@ Probing the Southern Cascadia Plate Interface with the Dense Amphibious
 Cascadia Initiative Seismic Array. Journal of Geophysical Research:
 Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
 
-## Research Position
+## Research Positions
 
 -   Developing a 3D fault model from seismicity at the San Andreas / Calaveras Fault junction
     -   Mendenhall Postdoctoral Scholar
@@ -61,6 +61,9 @@ Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
 
 ## Presentations
 
+-   From Hypocentral Seismicity Patterns to 3D Fault Models
+    -   Statewide California Earthquake Center - Annual Meeting
+    -   9/2024 Palm Springs, CA
 -   Offshore Faults and Earthquakes in California (invited talk)
     -   Santa Clara University, Colloquem
     -   6/2024 Santa Clara, CA
@@ -140,12 +143,16 @@ Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
 -   2016 Henry A Martin Scholarship
 
 ## Conference convenership
+-   2024 American Geophysical Union Annual Meeting, Co-chair *Characteristics of faults and fault zones and their influence on earthquake physics: observations, models, and experiments*
 -   2023 Seismological Society of America Meeting, Convener *Above
     the Seismogenic Zone: Fault Damage and Healing the Shallow Crust*
 -   2022 Seismological Society of America Meeting, Convener *Fault
     Damage Zones: What We Know and Do Not (1 & 2)*
 
 ## Field Experience
+-   2024 San Andreas Fault Trenching - Little Rabbit Valley
+    -   Data collected: Trench logs & interpretations
+    -   Location: Creeping section of the San Andreas Fault
 -   2024 Mee Ranch and Mustang Ranch
     -   Data collected: Alignment array measurements
     -   Location: Creeping section of the San Andreas Fault
