@@ -23,24 +23,17 @@ and aseismic slip.
 
 ## Publications
 
+**Alongi, T.**, & Skoumal, R. (2025). SURF: A python package for reconstructing faults from seis- micity patterns (Version 1.0.0). U.S. Geol. Surv. Software Release. https://doi.org/10.5066/ P1MM9HMW
+
 **Alongi, T.**, Brodsky, E. E., Kluesner, J., & Brothers, D. (2024). Characteristics of the fault damage zone from high‐resolution seismic imaging along the Palos Verdes Fault, California. AGU Advances, 5(4), e2023AV001155.    
 
 **Alongi, T.**, Balster-Gee, A.F. Kluesner, J.W., Snyder, G.R., Brothers, D.S., Conrad, J.E., Marcuson, R.K., (2024), Multichannel minisparker and chirp seismic reflection data collected during USGS field activity 2021-614-FA along the Palos Verdes Fault Zone: U.S. Geological Survey data release, https://doi.org/10.5066/P9HCOSDF
 
-**Alongi, T.**, Brodsky, E.E., Kluesner, J.W., Brothers, D.S., (2022),
-Using Active Source Seismology to Image the Palos Verdes Fault Damage
-Zone as a Function of Distance, Depth, and Geology, Earth and Planetary
-Science Letters <https://doi.org/10.1016/j.epsl.2022.117871>
+**Alongi, T.**, Brodsky, E.E., Kluesner, J.W., Brothers, D.S., (2022), Using Active Source Seismology to Image the Palos Verdes Fault Damage Zone as a Function of Distance, Depth, and Geology, Earth and Planetary Science Letters <https://doi.org/10.1016/j.epsl.2022.117871>
 
-**Alongi, T.**, Balster-Gee, A.F.,Kluesner, J.W., Sliter, R.W., (2022),
-Reprocessed multichannel seismic-reflection data collected offshore
-central and Southern California during USGS field activity L-4-90-SC:
-U.S. Geological Survey data release,<https://doi.org/10.5066/P9FOES4K>
+**Alongi, T.**, Balster-Gee, A.F.,Kluesner, J.W., Sliter, R.W., (2022), Reprocessed multichannel seismic-reflection data collected offshore central and Southern California during USGS field activity L-4-90-SC: U.S. Geological Survey data release,<https://doi.org/10.5066/P9FOES4K>
 
-**Alongi, T.**, Schwartz, S. Y., Shaddox, H. R., & Small, D. T. (2021).
-Probing the Southern Cascadia Plate Interface with the Dense Amphibious
-Cascadia Initiative Seismic Array. Journal of Geophysical Research:
-Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
+**Alongi, T.**, Schwartz, S. Y., Shaddox, H. R., & Small, D. T. (2021). Probing the Southern Cascadia Plate Interface with the Dense Amphibious Cascadia Initiative Seismic Array. Journal of Geophysical Research: Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
 
 ## Research Positions
 
@@ -61,6 +54,12 @@ Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
 
 ## Presentations
 
+-   What Controls the Along Strike Variability of a Fault Damage Zone (invited talk)
+    -   American Geophysical Union Conference 
+    -   12/2024 Washington D.C.
+-   From Hypocentral Seismicity Patterns to 3D Fault Models
+    -   American Geophysical Union Conference 
+    -   12/2024 Washington D.C.
 -   From Hypocentral Seismicity Patterns to 3D Fault Models
     -   Statewide California Earthquake Center - Annual Meeting
     -   9/2024 Palm Springs, CA
@@ -150,6 +149,9 @@ Solid Earth, 126, e2021JB022180. <https://doi.org/10.1029/2021JB022180>
     Damage Zones: What We Know and Do Not (1 & 2)*
 
 ## Field Experience
+-   2024 Montezuma Hills Fault Trenching - Talbert Lane
+    -   Data collected: Micro-fracture trench logs
+    -   Location: Bay Area Delta, CA
 -   2024 San Andreas Fault Trenching - Little Rabbit Valley
     -   Data collected: Trench logs & interpretations
     -   Location: Creeping section of the San Andreas Fault
