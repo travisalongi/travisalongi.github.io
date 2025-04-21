@@ -1,4 +1,5 @@
 ### Selected Presentations
+- **Dec. 2024** What Controls the Width of a Fault Damage Zone? (invited) *AGU - Washington D.C.*
 - **June 2024** Offshore Faults and Earthquakes in California (invited)  *Santa Clara University*
 - **May  2024** Constraining 3D fault geometry with a data-driven approach at the San Andreas - Calaveras Fault Junction *SSA - Anchorage, AK*
 - **Apr. 2024** Offshore Fault Damage and Slip Behavior: Insights from Microseismicity and Seismic Imaging (invited) *USGS ESC Seminar**

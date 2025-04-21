@@ -1,4 +1,10 @@
 ## Selected Publications 
+
+**SURF: A python package for reconstructing faults from seismicity patterns**
+Alongi, T., & Skoumal, R. (2025) *SURF: A python package for reconstructing faults from seismicity patterns: U.S. Geol. Surv. Software Release. https://doi.org/10.5066/ P1MM9HMW*  
+[ Link](https://code.usgs.gov/esc/surf)
+[⚡︎API](https://surf-doc.readthedocs.io/en/latest/)
+
 **Characteristics of the Fault Damage Zone From High‐ Resolution Seismic Imaging Along the Palos Verdes Fault, California**  
 *Alongi, T., Brodsky, E. E., Kluesner, J., & Brothers, D. (2024). Characteristics of the fault damage zone from high‐resolution seismic imaging along the Palos Verdes Fault, California. AGU Advances, 5(4), e2023AV001155.*  
 [ Link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023AV001155)
