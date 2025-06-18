@@ -23,6 +23,8 @@ and aseismic slip.
 
 ## Publications
 
+ Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, T.V. Alongi, and M.N. Hammer (2025).  Point cloud and digital elevation data from terrestrial laser scanning of the San Andreas Fault and coast redwood trees near Fort Ross, California: U.S. Geological Survey Data Release, [https://doi.org/10.5066/P14AWYPD](https://doi.org/10.5066/P14AWYPD)
+
 **Alongi, T.**, & Skoumal, R. (2025). SURF: A python package for reconstructing faults from seis- micity patterns (Version 1.0.0). U.S. Geol. Surv. Software Release. https://doi.org/10.5066/ P1MM9HMW
 
 **Alongi, T.**, Brodsky, E. E., Kluesner, J., & Brothers, D. (2024). Characteristics of the fault damage zone from high‐resolution seismic imaging along the Palos Verdes Fault, California. AGU Advances, 5(4), e2023AV001155.    
