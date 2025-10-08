@@ -1,7 +1,12 @@
 ## Selected Publications 
 
+**SURF: An Automated Method for Building Nonplanar 3D Fault Models from Earthquake Hypocenters Open Access**
+*Alongi, T., Elliott, A., Skoumal, R., Shelly, D., Hatem, A., (2025) SURF: An Automated Method for Building Nonplanar 3D Fault Models from Earthquake Hypocenters. Seismological Research Letters, https://doi.org/10.1785/0220250126*
+[ Link](https://doi.org/10.1785/0220250126)
+[ PDF](assets/pubs/Alongi_etal_2025_SRL.pdf)  
+
 **SURF: A python package for reconstructing faults from seismicity patterns**
-Alongi, T., & Skoumal, R. (2025) *SURF: A python package for reconstructing faults from seismicity patterns: U.S. Geol. Surv. Software Release. https://doi.org/10.5066/ P1MM9HMW*  
+*Alongi, T., & Skoumal, R. (2025) SURF: A python package for reconstructing faults from seismicity patterns: U.S. Geol. Surv. Software Release. https://doi.org/10.5066/ P1MM9HMW*  
 [ Link](https://code.usgs.gov/esc/surf)
 [⚡︎API](https://surf-doc.readthedocs.io/en/latest/)
 [🏄‍♀️ Wiki](https://code.usgs.gov/esc/surf/-/wikis/home)
