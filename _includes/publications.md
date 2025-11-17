@@ -5,7 +5,7 @@
 [ Link](https://doi.org/10.1785/0220250126)
 [ PDF](assets/pubs/Alongi_etal_2025_SRL.pdf)  
 
-**SURF: A python package for reconstructing faults from seismicity patterns**
+**SURF: A python package for reconstructing faults from seismicity patterns**  
 *Alongi, T., & Skoumal, R. (2025) SURF: A python package for reconstructing faults from seismicity patterns: U.S. Geol. Surv. Software Release. https://doi.org/10.5066/ P1MM9HMW*  
 [ Link](https://code.usgs.gov/esc/surf)
 [⚡︎API](https://surf-doc.readthedocs.io/en/latest/)
