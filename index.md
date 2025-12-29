@@ -20,6 +20,14 @@ During my PhD at UC Santa Cruz I specialized in analyzing the spatial patterns o
 - **April 2025** 3D fault modeling software released ([SURF - USGS](https://code.usgs.gov/esc/surf))
 - **July 2024** New paper published in AGU advances ([EOS article](https://eos.org/research-spotlights/imaging-below-the-surface-reveals-one-of-los-angeless-webs-of-faults))
 
+## Publications
 {% include_relative _includes/publications.md %}
-{% include_relative _includes/services.md %}
+
+## Presentations (selected)
+{% include_relative _includes/presentations.md %}
+
+## Conference Convenership
+{% include_relative _includes/convenerships.md %}
+
+## Related Links
 {% include_relative _includes/links.md %}
