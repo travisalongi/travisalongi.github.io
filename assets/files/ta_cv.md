@@ -24,7 +24,9 @@ B.S Business Administration (Magna Cum Laude) -- *San Jose State University*
 
 ## Publications
 
- Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, **T.V. Alongi**, and M.N. Hammer (2025).  Point cloud and digital elevation data from terrestrial laser scanning of the San Andreas Fault and coast redwood trees near Fort Ross, California: U.S. Geological Survey Data Release, [https://doi.org/10.5066/P14AWYPD](https://doi.org/10.5066/P14AWYPD)
+**Alongi, T.**, Elliott, A. J., Skoumal, R. J., Shelly, D. R., & Hatem, A. E. (2025). SURF: An Automated Method for Building Nonplanar 3D Fault Models from Earthquake Hypocenters. Seismological Research Letters. [https://doi.org/10.1785/0220250126](https://doi.org/10.1785/0220250126)  
+
+Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, **T.V. Alongi**, and M.N. Hammer (2025).  Point cloud and digital elevation data from terrestrial laser scanning of the San Andreas Fault and coast redwood trees near Fort Ross, California: U.S. Geological Survey Data Release, [https://doi.org/10.5066/P14AWYPD](https://doi.org/10.5066/P14AWYPD)
 
 **Alongi, T.**, & Skoumal, R. (2025). SURF: A python package for reconstructing faults from seismicity patterns (Version 1.0.0). U.S. Geol. Surv. Software Release. <https://doi.org/10.5066/P1MM9HMW>
 
@@ -75,6 +77,18 @@ B.S Business Administration (Magna Cum Laude) -- *San Jose State University*
 
 ## Presentations
 
+*Non-planar 3D Fault Models from Earthquake Hypocenters (talk)*  
+-   American Geophysical Union Conference, **12/2025** New Orleans, LA
+
+*An Automated Method for Building Non-planar 3D Fault models from Earthquake Hypocenters*  
+-   Statewide California Earthquake Center - Annual Meeting, **9/2025** Palm Springs, CA  
+
+*What does seismicity tell us about fault geometries (talk)*  
+-   CRESCENT community fault model workshop, **8/2025** Remote Participation
+
+*Microseismicity to Model Non-planar Fault Systems (talk)*  
+-   USGS Northern Calif. Earthquake Hazards Workshop , **2/2025** Remote Participation
+
 *What Controls the Along Strike Variability of a Fault Damage Zone (invited talk)*  
 -   American Geophysical Union Conference, **12/2024** Washington D.C.  
   
@@ -90,11 +104,11 @@ B.S Business Administration (Magna Cum Laude) -- *San Jose State University*
 *Constraining 3D Fault Geometry with a Data-Drive Approach at the San Andreas - Calaveras Fault Junction*  
 -   Seismological Society of America Annual Meeting, **5/2024** Anchorage, AK  
   
-*Offshore Fault Damage and Slip Behavior: Insights from Microseismicity and Seismic Imaging*  
--   US Geologic Survey, Earthquake Science Seminar (invited talk), **4/2024** Moffett Field, CA  
+*Offshore Fault Damage and Slip Behavior: Insights from Microseismicity and Seismic Imaging (invited talk)*  
+-   US Geologic Survey, Earthquake Science Seminar , **4/2024** Moffett Field, CA  
   
-*Fault Damage Zone Insights from High-Resolution Seismic Imaging and the Relationship with Fluid Seeps Along the Palos Verdes fault*    
--   American Geophysical Union Conference (talk), **12/2023** San Francisco, CA  
+*Fault Damage Zone Insights from High-Resolution Seismic Imaging and the Relationship with Fluid Seeps Along the Palos Verdes fault (talk)*    
+-   American Geophysical Union Conference, **12/2023** San Francisco, CA  
   
 *Understanding Fault Damage and Slip with Marine Seismic Methods*  
 -   PhD Dissertation Defense, **10/2024** Santa Cruz, CA  
@@ -155,6 +169,8 @@ B.S Business Administration (Magna Cum Laude) -- *San Jose State University*
 ---
 
 ## Conference convenership
+2025 American Geophysical Union Annual Meeting, Co-chair *Characteristics of faults and fault zones and their influence on earthquake physics: observations, models, and experiments*
+
 2024 American Geophysical Union Annual Meeting, Co-chair *Characteristics of faults and fault zones and their influence on earthquake physics: observations, models, and experiments*
 
 2023 Seismological Society of America Meeting, Convener *Above the Seismogenic Zone: Fault Damage and Healing the Shallow Crust*
@@ -164,7 +180,12 @@ B.S Business Administration (Magna Cum Laude) -- *San Jose State University*
 ---
 
 ## Field Experience
-2025 Parkfield bridge   
+
+2025 San Andreas Fault Trenching - Little Rabbit Valley  
+-   Data collected: Trench logs & interpretations  
+-   Location: Creeping section of the San Andreas Fault  
+
+2025 Parkfield Bridge - Creeping San Andreas Fault   
 - Data collect: Terrestrial LiDAR \& Alignment array measurements  
 - Location: Parkfield, CA  
 
