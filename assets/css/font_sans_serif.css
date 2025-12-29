@@ -27,9 +27,10 @@
 }
 
 body {
-    background-color: #e0e0e0;
+    /* background-color: #e0e0e0; */
+    background-color: #F5F5F5;
     padding:50px;
-    font: 16px/1.5  "Roboto", "NerdFont",Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font: 16px/1.5  Arial,"Roboto", "NerdFont", Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",  sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color:#3f3f3f;
     font-weight:450;
   }
