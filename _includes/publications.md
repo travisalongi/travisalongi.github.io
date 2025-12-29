@@ -1,4 +1,3 @@
-## Selected Publications 
 
 **SURF: An Automated Method for Building Nonplanar 3D Fault Models from Earthquake Hypocenters Open Access**  
 *Alongi, T., Elliott, A., Skoumal, R., Shelly, D., Hatem, A., (2025) SURF: An Automated Method for Building Nonplanar 3D Fault Models from Earthquake Hypocenters. Seismological Research Letters, https://doi.org/10.1785/0220250126*  
