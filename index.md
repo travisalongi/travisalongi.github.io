@@ -22,7 +22,7 @@ During my PhD at UC Santa Cruz I specialized in analyzing the spatial patterns o
 
 {% include_relative _includes/publications.md %}
 
-## Presentations (selected)
+## Selected Presentations 
 {% include_relative _includes/presentations.md %}
 
 ## Conference Convenership
