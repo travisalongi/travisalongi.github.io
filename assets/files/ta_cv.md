@@ -77,6 +77,9 @@ Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, **T.V. A
 
 ## Presentations
 
+*Measuring Fault Zone Complexity at Depth (talk)*  
+-   Northern California Earthquake Hazards Workshop, **2/2026** Remote Workshop
+
 *Non-planar 3D Fault Models from Earthquake Hypocenters (talk)*  
 -   American Geophysical Union Conference, **12/2025** New Orleans, LA
 
