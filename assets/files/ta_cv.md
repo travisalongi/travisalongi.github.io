@@ -24,7 +24,7 @@ B.S Business Administration (Magna Cum Laude) -- *San Jose State University*
 
 ## Publications
 
-**Alongi, T.**, Elliott, A. J., Skoumal, R. J., Shelly, D. R., & Hatem, A. E. (2025). SURF: An Automated Method for Building Nonplanar 3D Fault Models from Earthquake Hypocenters. Seismological Research Letters. [https://doi.org/10.1785/0220250126](https://doi.org/10.1785/0220250126)  
+**Alongi, T.**, Elliott, A. J., Skoumal, R. J., Shelly, D. R., & Hatem, A. E. (2026). SURF: An Automated Method for Building Nonplanar 3D Fault Models from Earthquake Hypocenters. Seismological Research Letters. [https://doi.org/10.1785/0220250126](https://doi.org/10.1785/0220250126)  
 
 Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, **T.V. Alongi**, and M.N. Hammer (2025).  Point cloud and digital elevation data from terrestrial laser scanning of the San Andreas Fault and coast redwood trees near Fort Ross, California: U.S. Geological Survey Data Release, [https://doi.org/10.5066/P14AWYPD](https://doi.org/10.5066/P14AWYPD)
 
@@ -76,6 +76,14 @@ Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, **T.V. A
 ---
 
 ## Presentations
+*What is the fault zone structure at depth: a study of creeping faults in California*    
+-   2026 USGS Earthquake Hazards Program, **5/2026** Moffett Field, CA
+
+*Seismicity as a Fault Mapping Tool: Automated nonplanar 3D fault models with SURF*  
+-   Geologic Hazards Science Center Seminar Series, **4/2026** Golden, CO
+
+*How is surface creep related to deep structure?: A depth-dependent geometric complexity study of the creeping San Andreas Fault*  
+-   2026 Statewide California Earthquake Center - Fault Creep Workshop, **3/2026** San Jose, CA
 
 *Measuring Fault Zone Complexity at Depth (talk)*  
 -   Northern California Earthquake Hazards Workshop, **2/2026** Remote Workshop
@@ -171,7 +179,10 @@ Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, **T.V. A
 
 ---
 
-## Conference convenership
+## Conference convenership & community involvement  
+
+2026 Earthquake Science Center Seminar Series, Co-chair & organizer *USGS*
+
 2025 American Geophysical Union Annual Meeting, Co-chair *Characteristics of faults and fault zones and their influence on earthquake physics: observations, models, and experiments*
 
 2024 American Geophysical Union Annual Meeting, Co-chair *Characteristics of faults and fault zones and their influence on earthquake physics: observations, models, and experiments*
@@ -184,17 +195,29 @@ Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, **T.V. A
 
 ## Field Experience
 
+2026 Central San Andreas Fault Mapping  
+-   Data collected: detailed fault mapping near alignment arrays  
+-   Location: Creeping section of the San Andreas Fault  
+
+2026 Pittsburgh Kirby Hills Fault - coring  
+-   Data collected: gouge and russian peat cores  
+-   Location: Bay Area delta, CA  
+
+2026 San Ramon Nodal Seismic Deployment  
+-   Data collected: nodal seismic data (~80 instruments)  
+-   Location: Calaveras Fault near San Ramon, CA  
+
 2025 San Andreas Fault Trenching - Little Rabbit Valley  
 -   Data collected: Trench logs & interpretations  
 -   Location: Creeping section of the San Andreas Fault  
 
 2025 Parkfield Bridge - Creeping San Andreas Fault   
-- Data collect: Terrestrial LiDAR \& Alignment array measurements  
-- Location: Parkfield, CA  
+-   Data collect: Terrestrial LiDAR \& Alignment array measurements  
+-   Location: Parkfield, CA  
 
 2024 Montezuma Hills Fault Trenching - Talbert Lane  
 -   Data collected: Micro-fracture trench logs  
--   Location: Bay Area Delta, CA  
+-   Location: Bay Area delta, CA  
   
 2024 San Andreas Fault Trenching - Little Rabbit Valley  
 -   Data collected: Trench logs & interpretations  
