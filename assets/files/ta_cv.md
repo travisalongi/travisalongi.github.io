@@ -76,6 +76,10 @@ Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, **T.V. A
 ---
 
 ## Presentations
+
+*Fault complexity and roughness measured with seismicity at Parkfield, CA*    
+-   2026 Statewide California Earthquake Center - Parkfield 2.0 Workshop, **6/2026** Moffett Field, CA   
+
 *What is the fault zone structure at depth: a study of creeping faults in California*    
 -   2026 USGS Earthquake Hazards Program, **5/2026** Moffett Field, CA
 
