@@ -1,8 +1,8 @@
 ## Publications
 
-**pwrlaw_dmg: Python scripts for testing various impacts on power law behavior of fault damage zones**
-*Alongi, T., Rodriguez Padilla, A. (2026) pwrlaw_dmg: Python scripts for testing various impacts on power law behavior of fault damage zones: U.S. Geol. Surv. Software Release. https://doi.org/10.5066/P1KBHVKX*
-[ Link](https://code.usgs.gov/pubs/pwrlaw_dmg)
+**pwrlaw_dmg: Python scripts for testing various impacts on power law behavior of fault damage zones**  
+*Alongi, T., Rodriguez Padilla, A. (2026) pwrlaw_dmg: Python scripts for testing various impacts on power law behavior of fault damage zones: U.S. Geol. Surv. Software Release. https://doi.org/10.5066/P1KBHVKX*  
+[ Link](https://code.usgs.gov/pubs/pwrlaw_dmg)  
 
 **SURF: An Automated Method for Building Nonplanar 3D Fault Models from Earthquake Hypocenters**  
 *Alongi, T., Elliott, A., Skoumal, R., Shelly, D., Hatem, A., (2026) SURF: An Automated Method for Building Nonplanar 3D Fault Models from Earthquake Hypocenters. Seismological Research Letters, https://doi.org/10.1785/0220250126*  
