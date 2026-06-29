@@ -24,6 +24,8 @@ B.S Business Administration (Magna Cum Laude) -- *San Jose State University*
 
 ## Publications
 
+Alongi, T., Rodriguez Padilla, A. (2026) pwrlaw_dmg: Python scripts for testing various impacts on power law behavior of fault damage zones: U.S. Geol. Surv. Software Release. [https://doi.org/10.5066/P1KBHVKX](https://doi.org/10.5066/P1KBHVKX)
+
 **Alongi, T.**, Elliott, A. J., Skoumal, R. J., Shelly, D. R., & Hatem, A. E. (2026). SURF: An Automated Method for Building Nonplanar 3D Fault Models from Earthquake Hypocenters. Seismological Research Letters. [https://doi.org/10.1785/0220250126](https://doi.org/10.1785/0220250126)  
 
 Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, **T.V. Alongi**, and M.N. Hammer (2025).  Point cloud and digital elevation data from terrestrial laser scanning of the San Andreas Fault and coast redwood trees near Fort Ross, California: U.S. Geological Survey Data Release, [https://doi.org/10.5066/P14AWYPD](https://doi.org/10.5066/P14AWYPD)
