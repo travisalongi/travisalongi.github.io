@@ -24,7 +24,7 @@ B.S Business Administration (Magna Cum Laude) -- *San Jose State University*
 
 ## Publications
 
-Alongi, T., Rodriguez Padilla, A. (2026) pwrlaw_dmg: Python scripts for testing various impacts on power law behavior of fault damage zones: U.S. Geol. Surv. Software Release. [https://doi.org/10.5066/P1KBHVKX](https://doi.org/10.5066/P1KBHVKX)
+**Alongi, T.**, Rodriguez Padilla, A. (2026) pwrlaw_dmg: Python scripts for testing various impacts on power law behavior of fault damage zones: U.S. Geol. Surv. Software Release. [https://doi.org/10.5066/P1KBHVKX](https://doi.org/10.5066/P1KBHVKX)  
 
 **Alongi, T.**, Elliott, A. J., Skoumal, R. J., Shelly, D. R., & Hatem, A. E. (2026). SURF: An Automated Method for Building Nonplanar 3D Fault Models from Earthquake Hypocenters. Seismological Research Letters. [https://doi.org/10.1785/0220250126](https://doi.org/10.1785/0220250126)  
 
@@ -85,7 +85,7 @@ Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, **T.V. A
 *What is the fault zone structure at depth: a study of creeping faults in California*    
 -   2026 USGS Earthquake Hazards Program, **5/2026** Moffett Field, CA
 
-*Seismicity as a Fault Mapping Tool: Automated nonplanar 3D fault models with SURF*  
+*Seismicity as a Fault Mapping Tool: Automated nonplanar 3D fault models with SURF (invited talk)*  
 -   Geologic Hazards Science Center Seminar Series, **4/2026** Golden, CO
 
 *How is surface creep related to deep structure?: A depth-dependent geometric complexity study of the creeping San Andreas Fault*  
@@ -206,7 +206,7 @@ Milani, R.A., J.L. Vermeer, S.B. DeLong, B.E. Philibosian, C. Wikstrom, **T.V. A
 -   Location: Creeping section of the San Andreas Fault  
 
 2026 Pittsburgh Kirby Hills Fault - coring  
--   Data collected: gouge and russian peat cores  
+-   Data collected: GPR + gouge and russian peat cores  
 -   Location: Bay Area delta, CA  
 
 2026 San Ramon Nodal Seismic Deployment  
